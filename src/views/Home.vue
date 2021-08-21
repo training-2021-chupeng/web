@@ -2,6 +2,11 @@
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png">
     <div>{{ msg }}</div>
+    <div>{{ msg }}</div>
+    <div>{{ msg }}</div>
+    <div>{{ msg }}</div>
+    <div>{{ msg }}</div>
+    <div>{{ msg }}</div>
   </div>
 </template>
 
